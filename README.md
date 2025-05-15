@@ -13,7 +13,7 @@ TODO
 ## License
 
 <a href="https://opensource.org/licenses/MIT">
-  <img align="right" height="96" alt="MIT License" src="https://branding.cute.engineering/licenses/mit.svg" />
+  <img align="right" height="69" alt="MIT License" src="https://branding.cute.engineering/licenses/mit.svg" />
 </a>
 
 Kaleido and its components are licensed under the **MIT License**.  
